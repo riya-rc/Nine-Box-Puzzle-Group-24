@@ -10,10 +10,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.*;
 
-/**
- *
- * @author Riya
- */
+
 public class PlayArea extends JPanel {
     private GameEngine myGameEngine;
     private Statistics statistics;

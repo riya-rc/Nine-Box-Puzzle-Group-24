@@ -1,2 +1,2 @@
 # Nine-Box-Puzzle
-A simple game of Nine Box Puzzle written in Java Swing from scratch.
+A simple 9 box puzzle written in Java Swing using Netbeans IDE using the concepts of Object Oriented Programming.

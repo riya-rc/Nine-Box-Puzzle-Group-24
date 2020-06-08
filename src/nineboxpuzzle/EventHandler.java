@@ -8,10 +8,6 @@ package nineboxpuzzle;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-/**
- *
- * @author Riya
- */
 public class EventHandler implements ActionListener{
     
     private int positionX;

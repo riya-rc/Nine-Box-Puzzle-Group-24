@@ -7,10 +7,6 @@ package nineboxpuzzle;
 
 import java.util.*;
 
-/**
- *
- * @author Riya
- */
 public class GameEngine {
     
     private Box[][] boxes;

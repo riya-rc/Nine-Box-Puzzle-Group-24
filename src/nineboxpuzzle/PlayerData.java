@@ -7,10 +7,6 @@ package nineboxpuzzle;
 
 import java.util.Comparator;
 
-/**
- *
- * @author Riya
- */
 public class PlayerData implements Comparable<PlayerData> {
     private String name;
     private int score;

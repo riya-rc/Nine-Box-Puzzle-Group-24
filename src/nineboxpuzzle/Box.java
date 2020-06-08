@@ -11,10 +11,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.*;
 
-/**
- *
- * @author Riya
- */
+
 public class Box extends JButton {
     private int positionX;
     private int positionY;

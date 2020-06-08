@@ -13,10 +13,7 @@ import java.util.Collections;
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author Riya
- */
+
 public class Statistics extends JPanel {
     private ArrayList<PlayerData> list;
     private final JFrame frame;
