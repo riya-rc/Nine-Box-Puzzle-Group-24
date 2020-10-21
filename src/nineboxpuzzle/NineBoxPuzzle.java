@@ -109,9 +109,6 @@ public class NineBoxPuzzle extends JPanel {
         frame.repaint();
     }
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
         JFrame frame = new JFrame();
